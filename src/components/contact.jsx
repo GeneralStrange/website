@@ -5,7 +5,7 @@ class Main extends Component {
     return (
       <main role="main" className="container">
         <div className="jumbotron">
-          <p class="lead">MAIN PAGE</p>
+          <p class="lead">CONTACT ME</p>
         </div>
       </main>
     );
